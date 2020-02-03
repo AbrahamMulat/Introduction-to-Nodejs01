@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "12.13.0",
+  "description": "Simple Personal web App",
+  "main": "helloNode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbrahamMulat/Introduction-to-Nodejs01.git"
+  },
+  "author": "Abraham Mulat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AbrahamMulat/Introduction-to-Nodejs01/issues"
+  },
+  "homepage": "https://github.com/AbrahamMulat/Introduction-to-Nodejs01#readme"
+}
