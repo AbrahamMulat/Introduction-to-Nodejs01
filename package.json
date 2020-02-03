@@ -4,6 +4,7 @@
   "description": "Simple Personal web App",
   "main": "helloNode.js",
   "scripts": {
+    "start":"node helloNode.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
